@@ -8,3 +8,4 @@ https://www.mediafire.com/file/89u9o564hrwga80/Crystal_%255BB%255D.zip/file#<!--
 Balltaco99/Balltaco99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://www.mediafire.com/file/7rs6clg6fstaru0/InsaneCraft.mcaddon/file
