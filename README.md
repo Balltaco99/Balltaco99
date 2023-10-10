@@ -9,3 +9,5 @@ Balltaco99/Balltaco99 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 https://www.mediafire.com/file/7rs6clg6fstaru0/InsaneCraft.mcaddon/file
+https://www.mediafire.com/file/wl18p359pq577kq/RypAnimesV.mcaddon/file
+https://www.mediafire.com/file/hk30rhv5gdxxn7m/RypAnimesV+R.mcaddon/file
